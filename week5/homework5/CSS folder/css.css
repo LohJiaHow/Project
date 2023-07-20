@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(8, 8, 0);
+    color: rgb(248, 255, 227);
+}
+
+div#one {
+    float: left;
+    font-size: 25px;
+    font-family: serif;
+    width: 300px;
+    margin-top: 120px;
+    margin-left: 100px;
+    margin-bottom: 800px;
+}
+
+h2 {
+    font-family: serif;
+    font-size: 35px;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div#imgone {
+    float: left;
+    width: 270px;
+    margin-top: 150px;
+    margin-left: 100px;
+    border-bottom: 3px solid rgb(248, 255, 227);
+    margin-right: -50px;
+}
+
+div#imgtwo {
+    float: left;
+    width: 270px;
+    margin-top: 150px;
+    margin-left: 100px;
+    border-bottom: 3px solid rgb(248, 255, 227);
+    margin-right: -50px;
+}
+
+div#imgthree {
+    float: left;
+    width: 270px;
+    margin-top: 150px;
+    margin-left: 100px;
+    border-bottom: 3px solid rgb(248, 255, 227);
+    margin-right: -50px;
+}

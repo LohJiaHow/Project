@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(9, 9, 0);
+    color: rgb(255, 255, 225);
+    display: flex;
+}
+
+div#word {
+    width: 650px;
+    height: 700px;
+    margin-left: 100px;
+    border-left: 2px solid white;
+    border-right: 2px solid white;
+    text-align: center;
+    padding-top: 200px;
+    ;
+}
+
+div#img {
+    border-right: 2px solid white;
+    height: 700px;
+    padding: 100px;
+}
+
+h1 {
+    font-size: 50px;
+    font-family: Roxborough CF Demi Bold;
+}
+
+p {
+    font-size: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}

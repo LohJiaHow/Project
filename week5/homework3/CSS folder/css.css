@@ -1,0 +1,32 @@
+div#img {
+    float: left;
+    margin-top: 50px;
+    margin-left: -10px;
+}
+
+div#box {
+    float: right;
+    width: 500px;
+    margin-top: 120px;
+    margin-right: -18px;
+    border: 8px solid black;
+    text-align: right;
+    padding: 40px;
+    padding-right: 80px;
+
+}
+
+h1 {
+    font-size: 55px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+p {
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
