@@ -1,0 +1,79 @@
+#container {
+    background-color: #f1f1f1;
+    max-width: 1024px;
+    margin: auto;
+    font-family: 'Lato', sans-serif;
+    /*align in center*/
+}
+
+body {
+    margin: 0px;
+}
+
+.header {
+    background-color: #f1f1f1;
+    text-align: center;
+    padding: 20px;
+}
+
+/* The navbar container */
+.topnav {
+    display: flex;
+    background-color: #333;
+    padding: 14px 16px;
+    justify-content: space-between;
+}
+
+/* Navbar links */
+.topnav div a {
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+
+/* Links - change color on hover */
+.topnav a:hover {
+    background-color: #ddd;
+    color: black;
+}
+
+.content1 {
+    display: flex;
+}
+
+.content2 {
+    display: flex;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    width: 33.33%;
+}
+
+@media screen and (max-width: 800px) {
+    .row {
+        flex-wrap: wrap;
+    }
+
+    .column {
+        width: 50%;
+    }
+
+    #column1 {
+        width: 100%;
+    }
+}
+
+@media screen and (max-width: 501px) {
+    .row {
+        flex-direction: column;
+    }
+
+    .column {
+        width: 100%;
+    }
+}
