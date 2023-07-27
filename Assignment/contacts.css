@@ -1,0 +1,1025 @@
+.contacts-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+
+.contacts-contacts {
+  width: 100%;
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(228, 238, 247, 1);
+}
+
+.contacts-group2 {
+  top: 93px;
+  left: 808px;
+  width: 525px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.contacts-group4 {
+  top: 0px;
+  left: 0px;
+  width: 525px;
+  height: 23px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.contacts-frame200 {
+  top: 755px;
+  left: 124px;
+  width: 28px;
+  height: 76px;
+  position: absolute;
+}
+
+.contacts-frame199 {
+  top: 212px;
+  left: 244px;
+  width: 1074px;
+  height: 738px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+
+.contacts-text {
+  top: 70px;
+  left: 29px;
+  color: rgba(0, 0, 0, 1);
+  width: 894px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-vector-stroke {
+  top: 213px;
+  left: 30px;
+  width: 363px;
+  height: 2px;
+  position: absolute;
+}
+
+.contacts-vector-stroke {
+  top: 328px;
+  left: 30px;
+  width: 363px;
+  height: 2px;
+  position: absolute;
+}
+
+.contacts-vector-stroke {
+  top: 443px;
+  left: 30px;
+  width: 363px;
+  height: 2px;
+  position: absolute;
+}
+
+.contacts-vector-stroke {
+  top: 558px;
+  left: 30px;
+  width: 363px;
+  height: 2px;
+  position: absolute;
+}
+
+.contacts-text02 {
+  top: 252px;
+  left: 124px;
+  color: rgb(0, 0, 0);
+  width: 28px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text19 {
+  top: 247px;
+  left: 274px;
+  color: rgba(0, 0, 0, 1);
+  width: 301px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text21 {
+  top: 369px;
+  left: 273px;
+  color: rgba(0, 0, 0, 1);
+  width: 194px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text23 {
+  top: 484px;
+  left: 273px;
+  color: rgba(0, 0, 0, 1);
+  width: 369px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text25 {
+  top: 599px;
+  left: 273px;
+  color: rgba(0, 0, 0, 1);
+  width: 364px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text27 {
+  top: 714px;
+  left: 273px;
+  color: rgba(0, 0, 0, 1);
+  width: 364px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text29 {
+  top: 369px;
+  left: 781px;
+  color: rgba(0, 0, 0, 1);
+  width: 256px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-group6 {
+  top: 419px;
+  left: 761px;
+  width: 477px;
+  height: 253px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.contacts-group5 {
+  top: 42px;
+  left: 0px;
+  width: 477px;
+  height: 211px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+}
+
+.contacts-text31 {
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text32 {
+  top: 56px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text33 {
+  top: 89px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text34 {
+  top: 122px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text36 {
+  top: 155px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text38 {
+  top: 188px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text40 {
+  left: 69px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text41 {
+  top: 56px;
+  left: 69px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text42 {
+  top: 89px;
+  left: 69px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text43 {
+  top: 122px;
+  left: 69px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text45 {
+  top: 155px;
+  left: 69px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text47 {
+  top: 188px;
+  left: 69px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text49 {
+  left: 138px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text50 {
+  top: 56px;
+  left: 138px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text51 {
+  top: 89px;
+  left: 138px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text52 {
+  top: 122px;
+  left: 138px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text54 {
+  top: 155px;
+  left: 138px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text56 {
+  top: 188px;
+  left: 138px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text58 {
+  left: 207px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text59 {
+  top: 56px;
+  left: 207px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text60 {
+  top: 89px;
+  left: 207px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text61 {
+  top: 122px;
+  left: 207px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text63 {
+  top: 155px;
+  left: 207px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text65 {
+  top: 188px;
+  left: 207px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text67 {
+  left: 276px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text68 {
+  top: 56px;
+  left: 276px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text69 {
+  top: 89px;
+  left: 276px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text71 {
+  top: 122px;
+  left: 276px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text73 {
+  top: 155px;
+  left: 276px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text75 {
+  left: 345px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text76 {
+  top: 56px;
+  left: 345px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text77 {
+  top: 89px;
+  left: 345px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-frame202 {
+  gap: 10px;
+  top: 117px;
+  left: 359px;
+  display: flex;
+  padding: 5px;
+  position: absolute;
+  align-items: flex-start;
+  background-color: rgba(103, 100, 100, 1);
+}
+
+.contacts-text79 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Bold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text81 {
+  top: 155px;
+  left: 345px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text83 {
+  left: 414px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text84 {
+  top: 56px;
+  left: 414px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text85 {
+  top: 89px;
+  left: 414px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text87 {
+  top: 122px;
+  left: 414px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text89 {
+  top: 155px;
+  left: 414px;
+  color: rgba(103, 100, 100, 1);
+  width: 63px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Medium;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-text91 {
+  left: 142px;
+  color: rgba(0, 0, 0, 1);
+  width: 194px;
+  height: auto;
+  position: absolute;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Karla;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-frame201 {
+  gap: 20px;
+  top: 715px;
+  left: 1117px;
+  width: 201px;
+  display: flex;
+  padding: 20px;
+  position: absolute;
+  align-items: center;
+  justify-content: center;
+  background-color: rgba(181, 83, 84, 1);
+}
+
+.contacts-text93 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 24px;
+  font-style: ExtraBold;
+  text-align: center;
+  font-family: Karla;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+
+.contacts-logo1 {
+  top: 36px;
+  left: 72px;
+  width: 95px;
+  height: 144px;
+  position: absolute;
+}
+
+.contacts-contacts {
+  height: 996px;
+}
+
+.button {
+  border: 0;
+  background: none;
+  text-transform: uppercase;
+  text-decoration: none;
+  color: #000000;
+  font-size: 25px;
+  font-family: Karla;
+  position: relative;
+  outline: none;
+  padding: 10px 20px;
+  box-sizing: border-box;
+}
+
+.button::before,
+.button::after {
+  box-sizing: inherit;
+  position: absolute;
+  content: '';
+  border: 2px solid transparent;
+  width: 0;
+  height: 0;
+}
+
+.button::after {
+  bottom: 0;
+  right: 0;
+}
+
+.button::before {
+  top: 0;
+  left: 0;
+}
+
+.button:hover::before,
+.button:hover::after {
+  width: 100%;
+  height: 100%;
+}
+
+.button:hover::before {
+  border-top-color: #000000;
+  border-right-color: #000000;
+  transition: width 0.3s ease-out, height 0.3s ease-out 0.3s;
+}
+
+.button:hover::after {
+  border-bottom-color: #000000;
+  border-left-color: #000000;
+  transition: border-color 0s ease-out 0.6s, width 0.3s ease-out 0.6s, height 0.3s ease-out 1s;
+}
+
+.contacts-button1,
+.contacts-button2 {
+  margin-left: 50px;
+}
+
+.contacts-button3 {
+  font-weight: 800;
+  margin-left: 50px;
+}
